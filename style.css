@@ -1,0 +1,15 @@
+input {margin-top: 5px;
+       margin-bottom: 5px;
+       }
+select {margin-bottom: 5px;
+        width: 148px;
+        height: 26px}
+textarea{margin-top: 5px;}
+
+INPUT[type="text"] {
+    color: grey;
+   }
+ 
+.b1{background-color: CadetBlue;
+width: 80px;
+height: 35px;}
